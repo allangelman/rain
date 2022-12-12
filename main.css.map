@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAAA;EACE,mBAAmB;EACnB,aAAa;EACb,sBAAsB;EACtB,uBAAuB;AACzB","sources":["webpack:///./src/style.css"],"sourcesContent":["body {\n  align-items: center;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n}\n"],"names":[],"sourceRoot":""}
