@@ -18,7 +18,7 @@ const scene = new Scene();
 /**
  * Object
  */
-const geometry = new BoxGeometry(1, 1, 1);
+const geometry = new BoxGeometry(1, 2, 1);
 const material = new MeshBasicMaterial({ color: 0xff0000 });
 const mesh = new Mesh(geometry, material);
 scene.add(mesh);
